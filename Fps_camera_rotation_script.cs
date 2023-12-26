@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
-public class movement : MonoBehaviour
+public class rotation : MonoBehaviour
 {
     public float senseX;
     public float senseY;
